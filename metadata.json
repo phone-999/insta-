@@ -1,0 +1,6 @@
+{
+  "name": "Insta",
+  "description": "An elegant, dark-themed offline-first Instagram-style social media client featuring Stories, double-tap hearts, and AI caption writing helper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
